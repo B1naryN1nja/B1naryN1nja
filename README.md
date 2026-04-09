@@ -16,3 +16,7 @@ I code in a variety of languages, such as:
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-FFD700?logo=gnu-bash&logoColor=black)
 ![AppleScript](https://img.shields.io/badge/AppleScript-000000?logo=apple&logoColor=white)
+
+**Contact Me**
+
+Please contact me by sending me a DM [on my Reddit](https://reddit.com/u/b1naryn1nja).
