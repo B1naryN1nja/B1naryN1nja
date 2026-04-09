@@ -1,5 +1,6 @@
 <img src="Banner2.png" alt="Banner" style="width:100%; height:50px; object-fit:cover;">
 
-## Hi there 👋
+**Hello there**
 
-I'm a software dev. I have been coding from when I was 8 years old, and I know a varity of languages and I'm working on a varity of projects.
+I'm an indie software dev who wants to change the world by inspiring others to make useful, high quality, non-vibecoded, open-source applications with no paywalls and ads. Full transparency with what I do and why I do it is my game!
+
