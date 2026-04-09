@@ -1,4 +1,4 @@
-<img src="banner.jpeg" alt="Banner" style="width:100%; height:150px; object-fit:cover;">
+<img src="banner2.png" alt="Banner" style="width:100%; height:150px; object-fit:cover;">
 
 ## Hi there 👋
 
