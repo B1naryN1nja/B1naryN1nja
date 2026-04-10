@@ -4,6 +4,8 @@
 
 I'm an indie software dev who wants to change the world by inspiring others to make useful, high-quality, non-vibecoded, open-source applications with no paywalls and ads. Full transparency with what I do and why I do it is my game!
 
+> fyi this is a new account, I'm just starting fresh on my GitHub scene of things
+
 **What do I code in?**
 
 I code in a variety of languages, such as:
